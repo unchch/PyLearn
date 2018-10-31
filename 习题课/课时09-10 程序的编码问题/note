@@ -1,0 +1,79 @@
+# 编码问题
+- 为什么需要编码
+  - 本质上计算机只能识别01代码
+  - 如何使用一长串的01代码表示复杂的意思
+- 编码简史
+  - 二进制
+    - bit: 一个0或者1的二进制数字
+    - byte: 八个01代码为一个字节
+  - 第一阶段：ASCII码
+  - 第二阶段：百花齐放，各国都有自己的标准来表示自己国家的字符，如GB2312,GBK,BIG5,Latin1,JIS
+    - Latin1: 兼容欧洲大多数语言
+    - 中国： GBXXXX
+    - 韩国太晚：BIG5
+    - 日本：JIS
+    - 微软 ANSI-MBCS(Multi-bytes character set，多字节字符集)
+  - 第三个阶段：Unicode(ISO)
+  
+# 编码表示方法
+- ASCII-american standard code for information interchange
+  - 所有控制字符（包括回车，删除等）编码在0-31之间以及127
+  - 所有标点符号，英文大小写放在32-126之间
+  - 预留 128-255 之间的位置
+  - 0xxx xxxx 是它的编码形式
+- Latin1
+  - 0-127之间不动，那么可以兼容ASCII,二进制位0xxx xxx
+  - 128-159 之间为控制字符
+  - 160-255 为文字符号
+    - 其中包括了西欧语言，希腊符，泰语，阿拉伯语，希伯来语
+  - 欧元符号无法表示
+- GBxxxx
+  - GB2312
+    -  如果一个字节中第一位为0，那么就是一个ASCII码
+    - 如果第一位为1，那么是个汉字，需要两个字节才表示一个汉字
+    - 还有很多的空间没有用到，干脆预留
+    - 0xxxxxxx ASCII
+    - 1xxxxxxx 汉字
+- GBK
+  - 在GB2312的基础上添加汉字
+  - 兼容GB2312和ASCII
+  - 1xxxxxxxx xxxxxxxx 表示为汉字
+- GB18030
+  - 2/4位混编
+  
+# Unicode 编码
+- 只是一个码表，具体实现没有规定
+- 0-0x10FFFF 来映射这些字符，最多可以容纳1114112个字符
+- 中文的编码范围为4E00-9FCF，其中9FC4-9FCF之间的区间没有用，空闲
+- 上述区间全部是汉字，不包含全角字符和特殊字符
+- UTF UnicodeTransformationFormat
+- utf-8
+  - 优先使用低位，占用字节少，省流
+- utf-16 utf-32
+  - utf-16 早期历史遗留问题
+  - utf-32 浪费空间
+
+- UCS-2
+  - 采用2个字节定长
+- UCS-4
+
+# 常用概念
+- 编码/解码
+  - 将人类可读的转换为byte格式的叫编码，反之为解码
+  - 大尾（BigEndian）和小尾（LittleEndian）
+    - "汉" - 6C49
+      - 6C49 - BigEndian
+      - 496C - LittleEndian
+
+- BOM
+  - UTF-8 没有字节顺序问题
+  - UTF-16 会出现问题：大尾小尾时可能是不同的汉字
+  - BOM-ByteOrderMark
+  
+# python 中编码问题
+- str
+- bytes
+- bytesarray        
+  
+# 参考资料
+ - 可自行百度
