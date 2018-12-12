@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69d29e9c-0ad5-454a-b68f-a9d7fdc8c5ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../课时08-dict-tuple-set/.ipynb_checkpoints/08-dict-tuple-set-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../课时08-dict-tuple-set/.ipynb_checkpoints/08-dict-tuple-set-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../课时08-dict-tuple-set/08-dict-tuple-set.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../课时08-dict-tuple-set/08-dict-tuple-set.ipynb" afterDir="false" />
@@ -11,9 +9,6 @@
       <change beforePath="$PROJECT_DIR$/../课时60/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../课时60/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../课时61/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../课时61/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../课时63-水仙花数和三色球/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../课时63-水仙花数和三色球/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/修学校-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../正课/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../正课/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../正课/课时05-python基础/python基础02.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../正课/课时11-内建结构list-dict-set/.ipynb_checkpoints/list-dict-tuple-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../正课/课时11-内建结构list-dict-set/.ipynb_checkpoints/list-dict-tuple-checkpoint.ipynb" afterDir="false" />
@@ -39,6 +34,7 @@
     <session id="1911808367">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -59,11 +55,13 @@
         <counts>
           <entry key="md" value="55" />
           <entry key="py" value="1894" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="55" />
+          <entry key="PLAIN_TEXT" value="27" />
           <entry key="Python" value="1894" />
         </counts>
       </usages-collector>
@@ -125,7 +123,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
@@ -157,6 +155,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -238,8 +237,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo" />
       <item itemvalue="Python.demo02" />
+      <item itemvalue="Python.demo" />
       <item itemvalue="Python.demo3" />
     </list>
     <recent_temporary>
@@ -260,6 +259,14 @@
       <option name="presentableId" value="Default" />
       <updated>1544438988217</updated>
     </task>
+    <task id="LOCAL-00001" summary="加强super()类用法">
+      <created>1544609830722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544609830722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -293,6 +300,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="加强super()类用法" />
+    <option name="LAST_COMMIT_MESSAGE" value="加强super()类用法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../README.md">
