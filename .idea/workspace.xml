@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="743c0c6e-39b7-4902-ae16-0603ff101679" name="Default Changelist" comment="习题课第7节听完">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/习题课/课时17/07-math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/习题课/课时17/07-random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/习题课/课时17/choose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/习题课/课时17/rand_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/习题课/课时17/rand_zimu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/习题课/课时18/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题课/07-math.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题课/07-random.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题课/rand_math.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/包/Untitled.ipynb" beforeDir="false" />
+    <list default="true" id="743c0c6e-39b7-4902-ae16-0603ff101679" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题课/课时08-dict-tuple-set/.ipynb_checkpoints/08-dict-tuple-set-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/习题课/课时08-dict-tuple-set/.ipynb_checkpoints/08-dict-tuple-set-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题课/课时08-dict-tuple-set/08-dict-tuple-set.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/习题课/课时08-dict-tuple-set/08-dict-tuple-set.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题课/课时09-程序的编码问题-01/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题课/课时18/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/正课/课时05-python基础/python基础02.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/正课/课时08-函数完结/05-函数完结.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/正课/课时08-函数完结/05-函数完结.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PyLearn$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1541066186725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正课/课时09-变量作用域和列表" />
     <SUITE FILE_PATH="coverage/PyLearn$rand_math__1_.coverage" NAME="rand_math (1) Coverage Results" MODIFIED="1540784324928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/习题课/课时17" />
     <SUITE FILE_PATH="coverage/PyLearn$p04.coverage" NAME="p04 Coverage Results" MODIFIED="1540524599802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/包" />
     <SUITE FILE_PATH="coverage/PyLearn$choose.coverage" NAME="choose Coverage Results" MODIFIED="1540873148836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/习题课/课时17" />
@@ -75,14 +72,15 @@
     <session id="-841586402">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -92,16 +90,17 @@
           <entry key="Python-16-包" value="1" />
           <entry key="ipynb" value="2" />
           <entry key="md" value="5" />
-          <entry key="py" value="34" />
+          <entry key="note" value="2" />
+          <entry key="py" value="36" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="2" />
-          <entry key="Markdown" value="8" />
+          <entry key="Markdown" value="10" />
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="34" />
+          <entry key="Python" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -109,26 +108,27 @@
           <entry key="10-oop基础" value="1828" />
           <entry key="Python-16-包" value="281" />
           <entry key="md" value="7991" />
+          <entry key="note" value="1852" />
           <entry key="py" value="9134" />
-          <entry key="txt" value="18" />
+          <entry key="txt" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="10100" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Markdown" value="11952" />
+          <entry key="PLAIN_TEXT" value="41" />
           <entry key="Python" value="9134" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/习题课/课时18/demo.py">
+        <entry file="file://$USER_HOME$/Downloads/课时18/demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="113" column="39" selection-start-line="113" selection-start-column="39" selection-end-line="113" selection-end-column="39" />
+            <state relative-caret-position="350">
+              <caret line="125" column="41" selection-start-line="125" selection-start-column="41" selection-end-line="125" selection-end-column="41" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -183,6 +183,9 @@
         <option value="$PROJECT_DIR$/习题课/课时17/rand_zimu.py" />
         <option value="$PROJECT_DIR$/习题课/课时17/choose.py" />
         <option value="$PROJECT_DIR$/习题课/课时18/demo.py" />
+        <option value="$PROJECT_DIR$/习题课/课时09-程序的编码问题-01/note" />
+        <option value="$PROJECT_DIR$/习题课/课时09-10 程序的编码问题/note" />
+        <option value="$PROJECT_DIR$/正课/课时09-变量作用域和列表/demo.py" />
       </list>
     </option>
   </component>
@@ -192,9 +195,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="149" />
-    <option name="y" value="32" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="200" />
+    <option name="y" value="33" />
     <option name="width" value="1240" />
     <option name="height" value="815" />
   </component>
@@ -236,14 +239,7 @@
             <path>
               <item name="PyLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="习题课" type="462c0819:PsiDirectoryNode" />
-              <item name="课时17" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="习题课" type="462c0819:PsiDirectoryNode" />
-              <item name="课时18" type="462c0819:PsiDirectoryNode" />
+              <item name="正课" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,7 +253,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -280,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo">
+  <component name="RunManager" selected="Python.demo (1)">
     <configuration name="choose" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,6 +291,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题课/课时17/choose.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/正课/课时09-变量作用域和列表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正课/课时09-变量作用域和列表/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,28 +365,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rand_math" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyLearn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/习题课" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题课/rand_math.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="rand_zimu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -392,19 +388,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.rand_math" />
       <item itemvalue="Python.rand_math (1)" />
       <item itemvalue="Python.rand_zimu" />
       <item itemvalue="Python.choose" />
       <item itemvalue="Python.demo" />
+      <item itemvalue="Python.demo (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo (1)" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.choose" />
         <item itemvalue="Python.rand_zimu" />
         <item itemvalue="Python.rand_math (1)" />
-        <item itemvalue="Python.rand_math" />
       </list>
     </recent_temporary>
   </component>
@@ -426,14 +422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1540544352538</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="正课按课时序号建立目录">
+      <created>1540889309387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540889309387</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="149" y="32" width="1240" height="815" extended-state="1" />
+    <frame x="200" y="33" width="1240" height="815" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18530884" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19616027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -464,7 +467,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="习题课第7节听完" />
-    <option name="LAST_COMMIT_MESSAGE" value="习题课第7节听完" />
+    <MESSAGE value="正课按课时序号建立目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="正课按课时序号建立目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -478,13 +482,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/练习-LY-07-str.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/练习-LY-07-str.ipynb" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -497,16 +495,7 @@
     <entry file="file://$PROJECT_DIR$/11-OOP" />
     <entry file="file://$PROJECT_DIR$/11-1.py" />
     <entry file="file://$PROJECT_DIR$/10-15 oop.md" />
-    <entry file="file://$PROJECT_DIR$/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-4976">
-            <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/note.md" />
     <entry file="file://$USER_HOME$/anaconda3/pkgs/dask-core-0.17.5-py36_0/lib/python3.6/site-packages/dask/dataframe/io/tests/test_sql.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -516,93 +505,18 @@
     <entry file="file://$PROJECT_DIR$/包/Python-16-包.py" />
     <entry file="file://$PROJECT_DIR$/包/Python-16-包02.py" />
     <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/10-01.py" />
-    <entry file="file://$PROJECT_DIR$/包/p02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/p03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/p04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/p01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/p05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/p06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/p07.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/pkg01/p01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/p08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/p09.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/pkg01/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包/Python-16-包.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="219">
-            <caret line="115" column="2" selection-start-line="115" selection-start-column="2" selection-end-line="115" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/包/p02.py" />
+    <entry file="file://$PROJECT_DIR$/包/p03.py" />
+    <entry file="file://$PROJECT_DIR$/包/p04.py" />
+    <entry file="file://$PROJECT_DIR$/包/p01.py" />
+    <entry file="file://$PROJECT_DIR$/包/p05.py" />
+    <entry file="file://$PROJECT_DIR$/包/p06.py" />
+    <entry file="file://$PROJECT_DIR$/包/p07.py" />
+    <entry file="file://$PROJECT_DIR$/包/pkg01/p01.py" />
+    <entry file="file://$PROJECT_DIR$/包/p08.py" />
+    <entry file="file://$PROJECT_DIR$/包/p09.py" />
+    <entry file="file://$PROJECT_DIR$/包/pkg01/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/包/Python-16-包.md" />
     <entry file="file://$PROJECT_DIR$/习题课/demo.py" />
     <entry file="file://$PROJECT_DIR$/习题课/str_num.txt" />
     <entry file="file://$PROJECT_DIR$/习题课/rand_math.py" />
@@ -641,8 +555,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/习题课/课时18/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="831">
           <caret line="113" column="39" selection-start-line="113" selection-start-column="39" selection-end-line="113" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题课/课时09-程序的编码问题-01/note" />
+    <entry file="file://$PROJECT_DIR$/习题课/课时09-10 程序的编码问题/note">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/正课/课时09-变量作用域和列表/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/课时18/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="125" column="41" selection-start-line="125" selection-start-column="41" selection-end-line="125" selection-end-column="41" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

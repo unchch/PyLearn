@@ -9,10 +9,12 @@ class School(object):
         global Course_list
 
     def hire(self, obj):
+        print(type(obj))
         self.teachers_list.append(obj.name)
         print("聘请了一个新老师: {}".format(obj.name))
 
     def enroll(self, obj):
+        print(type(obj))
         self.students_list.append(obj.name)
         print("注册了一位新学员: {}".format(obj.name))
 
@@ -42,8 +44,6 @@ class School_member(object):
 
 
 stu_num_id = 00
-
-
 class Students(School_member):
     def __init__(self, name, age, sex, role, course):
         super().__init__(name, age, sex, role)
@@ -75,10 +75,9 @@ class Students(School_member):
 
 
 tea_num_id = 00
-
-
 class Teachers(School_member):
     def __init__(self, name, age, sex, role, course):
+        print(Teachers.__mro__)
         super().__init__(name, age, sex, role)
         global tea_num_id
         tea_num_id += 1
