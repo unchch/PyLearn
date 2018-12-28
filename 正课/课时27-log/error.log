@@ -1,0 +1,4 @@
+2018-12-28 15:17:53,885 - ERROR - log02.py[:31] - error message
+2018-12-28 15:17:53,885 - CRITICAL - log02.py[:32] - critical message
+2018-12-28 16:07:23,213 - ERROR - mylogger - log02.py[:31] - error message
+2018-12-28 16:07:23,214 - CRITICAL - mylogger - log02.py[:32] - critical message

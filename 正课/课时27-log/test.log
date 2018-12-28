@@ -1,0 +1,33 @@
+2018-12-28 15:47:48,903 - DEBUG - log01.py[:9] - This is a debug log.
+2018-12-28 15:47:48,904 - INFO - log01.py[:10] - This is a info log.
+2018-12-28 15:47:48,904 - WARNING - log01.py[:11] - This is a warning log.
+2018-12-28 15:47:48,904 - ERROR - log01.py[:12] - This is a error log.
+2018-12-28 15:47:48,904 - CRITICAL - log01.py[:13] - This is a crititcal log.
+2018-12-28 15:47:48,904 - DEBUG - log01.py[:16] - This is a debug log.
+2018-12-28 15:47:48,905 - INFO - log01.py[:17] - This is a info log.
+2018-12-28 15:47:48,905 - WARNING - log01.py[:18] - This is a warning log.
+2018-12-28 15:47:48,905 - ERROR - log01.py[:19] - This is a error log.
+2018-12-28 15:47:48,905 - CRITICAL - log01.py[:20] - This is a crititcal log.
+2018-12-28 15:48:31,426 - DEBUG - log01.py[:9] - This is a debug log.
+2018-12-28 15:48:31,428 - INFO - log01.py[:10] - This is a info log.
+2018-12-28 15:48:31,428 - WARNING - log01.py[:11] - This is a warning log.
+2018-12-28 15:48:31,428 - ERROR - log01.py[:12] - This is a error log.
+2018-12-28 15:48:31,429 - CRITICAL - log01.py[:13] - This is a crititcal log.
+2018-12-28 15:48:31,429 - DEBUG - log01.py[:16] - This is a debug log.
+2018-12-28 15:48:31,429 - INFO - log01.py[:17] - This is a info log.
+2018-12-28 15:48:31,429 - WARNING - log01.py[:18] - This is a warning log.
+2018-12-28 15:48:31,429 - ERROR - log01.py[:19] - This is a error log.
+2018-12-28 15:48:31,429 - CRITICAL - log01.py[:20] - This is a crititcal log.
+
+
+
+2018-12-28 15:48:41,476 - DEBUG - log01.py[:9] - This is a debug log.
+2018-12-28 15:48:41,476 - INFO - log01.py[:10] - This is a info log.
+2018-12-28 15:48:41,477 - WARNING - log01.py[:11] - This is a warning log.
+2018-12-28 15:48:41,477 - ERROR - log01.py[:12] - This is a error log.
+2018-12-28 15:48:41,477 - CRITICAL - log01.py[:13] - This is a crititcal log.
+2018-12-28 15:48:41,477 - DEBUG - log01.py[:16] - This is a debug log.
+2018-12-28 15:48:41,477 - INFO - log01.py[:17] - This is a info log.
+2018-12-28 15:48:41,477 - WARNING - log01.py[:18] - This is a warning log.
+2018-12-28 15:48:41,477 - ERROR - log01.py[:19] - This is a error log.
+2018-12-28 15:48:41,477 - CRITICAL - log01.py[:20] - This is a crititcal log.
